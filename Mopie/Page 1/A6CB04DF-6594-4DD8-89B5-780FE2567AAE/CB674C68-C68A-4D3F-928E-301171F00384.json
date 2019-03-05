@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CB674C68-C68A-4D3F-928E-301171F00384",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C1B0514-5F66-458E-BA0F-1119760BE7EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0452ECF4-5182-43DF-A1DF-93DE4D9E30D3",
+    "height": 57,
+    "width": 356,
+    "x": 28,
+    "y": 633
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button transparent",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2B4DF9F-DCDC-4855-81AB-ACCA2ACAA45A",
+      "overrideName": "7F1B0746-ADAA-4489-8C34-4CE174311B25_stringValue",
+      "value": "I'm done!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B42443C0-6D52-4E91-90FF-E8612C3110E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F812B492-6ECB-41A1-9A81-F767B862DB50",
+  "verticalSpacing": 0
+}

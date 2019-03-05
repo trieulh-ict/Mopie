@@ -1,0 +1,94 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BE38CB1F-C826-4ECB-B2C7-1896B94B9D07",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 211,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B7629EE-E34E-44EF-839F-1070E8F683C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F8E3FFF2-AEA4-4624-BD23-F2C940B63F51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DBB2AE78-8E9C-4D3F-9100-14B3A4CF4957",
+    "height": 168,
+    "width": 7,
+    "x": 143,
+    "y": -305
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "17AF7791-CC5A-45C1-B441-A663585825EB"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6B9DBFC4-A92E-4186-A296-7B15912B668F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "94A52647-22B7-4F6E-82B4-4244C0143CDE"
+    }
+  ],
+  "name": "Event Color banner default",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "94A52647-22B7-4F6E-82B4-4244C0143CDE_layerStyle"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "31F9CF12-3351-4CD6-AC97-AA2BD65D1F26",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C42E1A3D-586A-4497-847D-1ADB37D776B7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B3E238B1-F35C-4C42-8197-DC5FEE78C6AD",
+    "guides": [
+    ]
+  }
+}

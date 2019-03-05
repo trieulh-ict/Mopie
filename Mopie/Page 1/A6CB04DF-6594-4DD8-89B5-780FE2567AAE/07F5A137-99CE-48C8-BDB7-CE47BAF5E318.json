@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "07F5A137-99CE-48C8-BDB7-CE47BAF5E318",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1960F9B-7615-4887-824F-1D5E8B2CF52B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FD22B5B4-1036-4EBE-8578-31D174B4A129",
+    "height": 64,
+    "width": 412,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Actionbar close with title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8E3D54F-FF73-4587-8AD3-B8704FAA9A98",
+      "overrideName": "040F2710-E6D5-425C-BCD6-5B5CF9169C75_stringValue",
+      "value": "Signup"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "37D63904-F1DA-4C5F-AB8C-F4156C45A778",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "986BAA85-F1BA-4AD8-ADD7-1ACAF764BD13",
+  "verticalSpacing": 0
+}
