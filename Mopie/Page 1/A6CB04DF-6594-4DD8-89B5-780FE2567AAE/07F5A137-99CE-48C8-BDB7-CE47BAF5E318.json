@@ -35,8 +35,8 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "D8E3D54F-FF73-4587-8AD3-B8704FAA9A98",
-      "overrideName": "040F2710-E6D5-425C-BCD6-5B5CF9169C75_stringValue",
+      "do_objectID": "59F4EC41-5AC3-4433-82D9-03793FFE0B1C",
+      "overrideName": "3C5B9E4A-2D80-4D7D-A7BD-1C6F4D1D008D_stringValue",
       "value": "Signup"
     }
   ],
@@ -53,6 +53,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "986BAA85-F1BA-4AD8-ADD7-1ACAF764BD13",
+  "symbolID": "605AB945-8BA5-4006-A6ED-E1E2B516BF12",
   "verticalSpacing": 0
 }
