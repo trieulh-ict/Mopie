@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "03C08CAD-EA20-4C8B-8A90-08E7A024948F",
+  "do_objectID": "ACAEFEED-0E8D-4FC1-A278-1F14AB05F9A6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -19,8 +19,8 @@
     "constrainProportions": true,
     "height": 36,
     "width": 36,
-    "x": 188,
-    "y": 98
+    "x": 166,
+    "y": 11
   },
   "hasClippingMask": false,
   "image": {

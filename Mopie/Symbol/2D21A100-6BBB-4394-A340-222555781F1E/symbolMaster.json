@@ -1,8 +1,16 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 203,
   "clippingMaskMode": 0,
-  "do_objectID": "3CF3D993-03E3-4F50-A530-8E5AAC95FD23",
+  "do_objectID": "2D21A100-6BBB-4394-A340-222555781F1E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,15 +23,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 57,
+    "width": 368,
+    "x": -71,
+    "y": -475
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -31,53 +40,40 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "50F7BF50-DCD5-4DF5-BF5F-F78763A90A48"
+      "class": "rectangle",
+      "id": "677A1983-36FF-486B-8592-D1160B51AF3A"
     },
     {
-      "class": "artboard",
-      "id": "A1C17C6A-B9D2-45B9-B704-FBD1EF261359"
-    },
-    {
-      "class": "artboard",
-      "id": "882FAE7F-979A-4385-9AC6-F45E085D9B07"
-    },
-    {
-      "class": "artboard",
-      "id": "8F7BE35D-5A68-4E92-9FB3-CA87DB064DC9"
-    },
-    {
-      "class": "artboard",
-      "id": "A6CB04DF-6594-4DD8-89B5-780FE2567AAE"
-    },
-    {
-      "class": "artboard",
-      "id": "4C541751-A94E-41C1-A2A4-E75C2DAA79F6"
-    },
-    {
-      "class": "artboard",
-      "id": "CF7A8E95-524B-4520-BE31-EE069F0DC571"
-    },
-    {
-      "class": "artboard",
-      "id": "E680ED6E-53BA-4BDD-8DC4-FF35149C58CB"
+      "class": "bitmap",
+      "id": "ACAEFEED-0E8D-4FC1-A278-1F14AB05F9A6"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Button Add Event",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "ACAEFEED-0E8D-4FC1-A278-1F14AB05F9A6_image"
+    }
+  ],
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -85,11 +81,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "E7E28A58-9274-469F-8007-B28C8FCCDCBA",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      332
     ]
   }
 }
