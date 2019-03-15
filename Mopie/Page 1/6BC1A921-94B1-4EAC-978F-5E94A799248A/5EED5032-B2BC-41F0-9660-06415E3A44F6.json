@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5EED5032-B2BC-41F0-9660-06415E3A44F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C9D4349A-EB74-446C-A32B-829C8C97E67E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23280E39-E662-4E1F-9EE0-92CDF00F24DB",
+    "height": 104,
+    "width": 412,
+    "x": 0,
+    "y": 407
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Expense Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FBC0927C-B434-4B57-92C7-166F798B1B47",
+      "overrideName": "7B9CCF8B-A8E0-479E-AB52-0C7EE196004F_stringValue",
+      "value": "$2,000"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "924057D0-9C83-40B4-B5CB-41B3B84C8457",
+      "overrideName": "107BE0A9-6149-4002-91E8-B06D61985651/4653A3A9-4D45-480D-BF31-9417C09A9658_symbolID",
+      "value": "1CCFEEB4-0A83-4C0A-AB5F-A163E18C473D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53C3733C-66DD-49F9-BC6D-3646CA0A0359",
+      "overrideName": "107BE0A9-6149-4002-91E8-B06D61985651/8897E393-1CF0-4F2C-9598-C15008C76CEF_symbolID",
+      "value": "86213FDC-A081-436A-AF21-1AE916472821"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A534F730-40A8-40B8-BEB3-0256E5B32025",
+      "overrideName": "902CFEBF-6040-4853-91EB-81DAA3321840_stringValue",
+      "value": "Pad Thai"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC98B08B-43DA-4D58-97BD-98557E03DE4D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4ADA166B-4474-491B-A75D-9455D519967D",
+  "verticalSpacing": 0
+}

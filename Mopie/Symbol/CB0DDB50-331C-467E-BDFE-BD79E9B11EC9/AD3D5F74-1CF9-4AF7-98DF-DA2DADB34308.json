@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AD3D5F74-1CF9-4AF7-98DF-DA2DADB34308",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 137,
+    "x": 274,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tabbar Item Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEF5446A-FD40-468C-9C73-3460C6462301",
+      "overrideName": "4B712C55-4841-475F-AA79-AA0A7A82AF82_stringValue",
+      "value": "Setting"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48642596-FB28-4BF8-82EB-6F40F1A5F805",
+      "overrideName": "48CDCA13-8C21-48E9-B449-1DE1C3FC6E77_symbolID",
+      "value": "54F99422-519A-4E01-99E5-4B8A7E1EA453"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "88228C4C-BD93-4012-9FDF-CB524E899559",
+  "verticalSpacing": 0
+}

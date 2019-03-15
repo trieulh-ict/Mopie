@@ -27,6 +27,12 @@
     "x": 136,
     "y": 12
   },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": true,
+    "thickGridTimes": 10
+  },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
@@ -54,6 +60,21 @@
       "id": "9FFF78F1-A25E-431A-8A8D-F27CB3A9478A"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 29.33333333333333,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 412
+  },
   "name": "Splash",
   "nameIsFixed": true,
   "presetDictionary": {

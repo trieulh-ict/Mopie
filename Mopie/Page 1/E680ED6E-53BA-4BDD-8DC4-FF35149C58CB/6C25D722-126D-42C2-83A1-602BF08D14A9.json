@@ -33,8 +33,8 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "8591B976-EA34-4F1B-AD1C-C585EC87D830",
-      "overrideName": "040F2710-E6D5-425C-BCD6-5B5CF9169C75_stringValue",
+      "do_objectID": "1A2CF2A7-EFEB-4C69-B85F-D39D331B1657",
+      "overrideName": "3C5B9E4A-2D80-4D7D-A7BD-1C6F4D1D008D_stringValue",
       "value": "Currency Converter"
     }
   ],
@@ -50,6 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "986BAA85-F1BA-4AD8-ADD7-1ACAF764BD13",
+  "symbolID": "605AB945-8BA5-4006-A6ED-E1E2B516BF12",
   "verticalSpacing": 0
 }

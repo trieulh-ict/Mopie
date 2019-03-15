@@ -75,6 +75,21 @@
       "id": "98710467-C1F5-4291-B2B3-308A8802705A"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 29.33333333333333,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 412
+  },
   "name": "Signup Name Error",
   "nameIsFixed": true,
   "presetDictionary": {

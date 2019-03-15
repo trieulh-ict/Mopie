@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 18,
+  "changeIdentifier": 27,
   "clippingMaskMode": 0,
   "do_objectID": "0F1A5E68-70AD-43DB-961F-F7ED4468E1FD",
   "exportOptions": {
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -60,9 +60,14 @@
       "id": "7F1B0746-ADAA-4489-8C34-4CE174311B25"
     }
   ],
-  "name": "Button transparent",
-  "nameIsFixed": false,
+  "name": "Button default",
+  "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7F1B0746-ADAA-4489-8C34-4CE174311B25_stringValue"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

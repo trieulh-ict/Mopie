@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "421B432F-0223-4F41-8338-2B1C1CBF7F33",
+  "do_objectID": "5B7F4A1B-35CB-45A5-A5F6-77CD6F21E3B9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -19,13 +19,13 @@
     "constrainProportions": true,
     "height": 36,
     "width": 36,
-    "x": 189,
-    "y": 183
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/b9bb02b2dee3f17e503cbec6f609427ae999b316.png",
+    "_ref": "images/e873c874bb4e40960b47914f92c4cfdad8465e0d.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 0,
@@ -35,7 +35,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rupees And Euro Exchange",
+  "name": "Medical Tag",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,24 +44,6 @@
   "style": {
     "_class": "style",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.2902717590332031,
-          "green": 0.2372307777404785,
-          "red": 0.2191445529460907
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1

@@ -29,6 +29,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      1945,
+      1930
     ]
   },
   "includeInCloudUpload": true,
@@ -66,6 +68,14 @@
     {
       "class": "artboard",
       "id": "CF7A8E95-524B-4520-BE31-EE069F0DC571"
+    },
+    {
+      "class": "artboard",
+      "id": "6BC1A921-94B1-4EAC-978F-5E94A799248A"
+    },
+    {
+      "class": "artboard",
+      "id": "B6640FA7-CCFC-45C5-8B87-84AD129C1C2A"
     },
     {
       "class": "artboard",

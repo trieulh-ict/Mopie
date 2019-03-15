@@ -51,7 +51,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -78,8 +78,8 @@
       "id": "D10273C9-2EDD-49DE-B36B-057E322B3A37"
     },
     {
-      "class": "bitmap",
-      "id": "421B432F-0223-4F41-8338-2B1C1CBF7F33"
+      "class": "symbolInstance",
+      "id": "8ED18FC6-3AF6-4646-A724-95F6C73B3719"
     },
     {
       "class": "text",
@@ -114,6 +114,21 @@
       "id": "6C25D722-126D-42C2-83A1-602BF08D14A9"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 29.33333333333333,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 412
+  },
   "name": "Currency Convert",
   "nameIsFixed": true,
   "presetDictionary": {

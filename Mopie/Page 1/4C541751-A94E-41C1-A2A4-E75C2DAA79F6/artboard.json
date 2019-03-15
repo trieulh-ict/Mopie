@@ -79,6 +79,21 @@
       "id": "4A9744E2-73DD-4B12-A2EA-C189ACCDE70B"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 29.33333333333333,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 412
+  },
   "name": "Main",
   "nameIsFixed": true,
   "presetDictionary": {

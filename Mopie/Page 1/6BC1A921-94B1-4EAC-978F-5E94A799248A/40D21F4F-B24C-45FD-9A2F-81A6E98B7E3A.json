@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "40D21F4F-B24C-45FD-9A2F-81A6E98B7E3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E1FB516C-D8B4-404A-A4A5-D64D709214DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9C4B855-142E-4A65-A53F-222CF20CC9D9",
+    "height": 104,
+    "width": 412,
+    "x": 0,
+    "y": 303
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Expense Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FBC0927C-B434-4B57-92C7-166F798B1B47",
+      "overrideName": "7B9CCF8B-A8E0-479E-AB52-0C7EE196004F_stringValue",
+      "value": "$1,500"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0479A32-0452-4111-9F9A-1A0AD2DDA09C",
+      "overrideName": "107BE0A9-6149-4002-91E8-B06D61985651/4653A3A9-4D45-480D-BF31-9417C09A9658_symbolID",
+      "value": "260B5D7E-C6DC-4D07-93E3-037FB899DAA9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB6AC929-75A9-4CFD-8919-B7974A455C7B",
+      "overrideName": "107BE0A9-6149-4002-91E8-B06D61985651/8897E393-1CF0-4F2C-9598-C15008C76CEF_symbolID",
+      "value": "2E8B8686-0985-4158-9F9C-CEE4856989F2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C3014AA-78F6-48D1-AFCE-B589C7FA7E9C",
+      "overrideName": "902CFEBF-6040-4853-91EB-81DAA3321840_stringValue",
+      "value": "Airport Taxi"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0687E657-8368-4594-86F2-0D8493166545",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4ADA166B-4474-491B-A75D-9455D519967D",
+  "verticalSpacing": 0
+}

@@ -70,6 +70,21 @@
       "id": "10A47C2D-B725-415A-83CB-5798CBB27558"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 29.33333333333333,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 412
+  },
   "name": "Main Copy",
   "nameIsFixed": true,
   "presetDictionary": {
