@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 564,
+  "changeIdentifier": 565,
   "clippingMaskMode": 0,
   "do_objectID": "CE4A184C-1F31-491D-945F-ACDA7EC83BA3",
   "exportOptions": {
@@ -35,8 +35,8 @@
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "3131A524-8EA4-4C39-946D-2B0CD00B6957"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -76,11 +76,6 @@
   "name": "Actionbar back with title description & menu",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "010A4C7B-37E6-4307-BB93-8708025F56B4_stringValue"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

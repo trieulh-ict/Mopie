@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 318,
+  "changeIdentifier": 328,
   "clippingMaskMode": 0,
   "do_objectID": "2D21A100-6BBB-4394-A340-222555781F1E",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,7 +60,7 @@
       "id": "ACAEFEED-0E8D-4FC1-A278-1F14AB05F9A6"
     }
   ],
-  "name": "Button Add Event",
+  "name": "Button Add",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -69,7 +69,7 @@
       "overrideName": "ACAEFEED-0E8D-4FC1-A278-1F14AB05F9A6_image"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

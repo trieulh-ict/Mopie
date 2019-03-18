@@ -42,6 +42,7 @@
     "base": 0,
     "do_objectID": "C88AD02C-ADAF-45A5-8B12-AC457313F9DB",
     "guides": [
+      396
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -89,26 +90,6 @@
     {
       "class": "symbolInstance",
       "id": "0FA0E44D-7EE3-4063-A316-F186E2EC383C"
-    },
-    {
-      "class": "rectangle",
-      "id": "471B1F18-1C4E-4700-AEDA-6871DF11CDB2"
-    },
-    {
-      "class": "text",
-      "id": "67F1EB7D-8E95-42D3-8CE7-3BBAD80CC168"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A65A1A44-FEA2-4776-92CB-8DA9A4B87DC7"
-    },
-    {
-      "class": "text",
-      "id": "77173AA6-DB02-4229-A7F0-4394EFA5C1FD"
-    },
-    {
-      "class": "text",
-      "id": "EC3AD8CD-CCA9-4424-820C-D9ADEE9FFE92"
     }
   ],
   "layout": {

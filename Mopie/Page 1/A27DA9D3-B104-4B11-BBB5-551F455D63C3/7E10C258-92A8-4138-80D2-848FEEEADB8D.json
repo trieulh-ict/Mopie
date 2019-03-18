@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7E10C258-92A8-4138-80D2-848FEEEADB8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0412D970-4E3D-4FA1-893A-46F0ABB1B408",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B7A97983-F67A-4AFE-84A8-3F502BFD82CD",
+    "height": 64,
+    "width": 412,
+    "x": 0,
+    "y": 64
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tabbar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2264D44-D601-47CA-8DD3-C2AC7F880C74",
+      "overrideName": "9BC9F831-152D-4BC2-989E-33DF4E51F508_symbolID",
+      "value": "88228C4C-BD93-4012-9FDF-CB524E899559"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BAC6BA9C-8411-42C5-85CB-D45A95838073",
+      "overrideName": "AC04695C-5C97-4AA0-8AA5-5DF7F1E9E722_symbolID",
+      "value": "E1B782B8-021F-4AB5-8FFA-41FE8C6F233A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "197C1CE4-E00D-4A5B-9FD1-E63002AFE7A2",
+      "overrideName": "AC04695C-5C97-4AA0-8AA5-5DF7F1E9E722/44407088-F206-42B6-BB1A-A1814713DD25_symbolID",
+      "value": "653B22C4-0557-4E8A-99B7-C4ABDB932651"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A9440DB-ED0F-4B47-BCCE-5F81B461732F",
+      "overrideName": "9BC9F831-152D-4BC2-989E-33DF4E51F508/48CDCA13-8C21-48E9-B449-1DE1C3FC6E77_symbolID",
+      "value": "BD46CCBC-F0E0-4071-A637-9F7B9120024A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF241E84-CC01-4AB0-9E20-4FBDA1411387",
+      "overrideName": "9BC9F831-152D-4BC2-989E-33DF4E51F508/4B712C55-4841-475F-AA79-AA0A7A82AF82_stringValue",
+      "value": "Expense"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CB0B5A6-5F23-4532-87DE-E349CFD16288",
+      "overrideName": "AC04695C-5C97-4AA0-8AA5-5DF7F1E9E722/FBBAE2A2-86ED-4FDC-AF92-19445CF0B1CC_stringValue",
+      "value": "Overview"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80D99EB1-EFB0-43BE-A9A3-7F53FC79DD61",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE45AFC2-A603-44BF-AA5D-169CE8CBCA7A",
+  "verticalSpacing": 0
+}

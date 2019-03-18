@@ -1,0 +1,169 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "36C0E9AE-B9EF-4CF6-8520-1CAB7F22E8BB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "96652C8F-713B-483A-A1BC-D4EA3EC85539",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A7892FCF-6E4F-42EC-BFA3-D8FF8E59F0D3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A1B46DE-11A8-428D-9143-AA4A11EF0285",
+    "height": 732,
+    "width": 412,
+    "x": 2696,
+    "y": 878
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "08B7790A-22F7-4C7D-A6E1-74247C1F6393"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9F56DCE9-3A62-469A-A299-781590156661",
+    "guides": [
+      273,
+      259,
+      392,
+      171,
+      87
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "019FFDF6-8336-4F0B-AD93-B617CF26DBBE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99333B02-7F9E-4D2D-AAC3-C8A123C16148"
+    },
+    {
+      "class": "text",
+      "id": "306DDDA3-0D35-4B39-8E2A-B500A7D1BE23"
+    },
+    {
+      "class": "text",
+      "id": "432B2CE5-731C-4CB1-BF86-A1F9D75052AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "485E4C3A-1B21-4F61-94DC-466C0F46DBF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05887C57-2FFB-4B57-B57E-74C1BC3E8ECD"
+    },
+    {
+      "class": "shapePath",
+      "id": "09720166-9B38-405E-B1E0-BFA756A9C16F"
+    },
+    {
+      "class": "text",
+      "id": "40CF728A-8BE2-4A7B-9C49-A46917D3C8DB"
+    },
+    {
+      "class": "text",
+      "id": "78D43DDF-1971-42D1-A385-7EF8470C8DF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB65035E-E004-48C3-8737-0EBD0830B4FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C27874FC-2156-4ECE-83E0-19B8CCDB7DF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2911D45B-28A4-427D-8E95-DF27C7CF8620"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "242CC907-E59E-49AE-8D79-024A48D76BB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00D829CF-935F-42FE-838C-908A6EB82D1E"
+    },
+    {
+      "class": "text",
+      "id": "0B23CC2A-5A3B-4F84-AA33-296956F7AA0E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 29.33333333333333,
+    "do_objectID": "3398FD8E-46E5-48D0-AC46-E97D0488C21B",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 24,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 412
+  },
+  "name": "Tab Setting",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 732,
+    "name": "Pixel 2",
+    "offersLandscapeVariant": 1,
+    "width": 412
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "90BE5D24-0DBA-4AD1-8306-98D588513EEC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A213DA37-3CF4-41B3-990F-B699E40FE545",
+    "guides": [
+      517
+    ]
+  }
+}

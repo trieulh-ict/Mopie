@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "242CC907-E59E-49AE-8D79-024A48D76BB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "25EC6517-D9F4-489E-9720-D925CEA9125E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0103ADD-666E-4F94-A94B-E3F2BD4AB424",
+    "height": 30,
+    "width": 369,
+    "x": 24,
+    "y": 454
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Member",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE009005-5395-4FBA-A62D-E3880B518F95",
+      "overrideName": "89B1A442-2205-457D-BBE4-C0A5BB38C59B_symbolID",
+      "value": "CFCB1442-0204-4BB3-BBD6-99F0578176C8"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AC32C1D5-56E5-41DD-9AA9-0764DACDE945",
+      "overrideName": "7CC2AA31-E32A-464C-B419-3AC12A888292_stringValue",
+      "value": "Ellisa"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "99D13DAD-8359-48F3-9615-0634D94C1F49",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE3AB60D-DB82-4FE0-872D-5F9900305E25",
+  "verticalSpacing": 0
+}

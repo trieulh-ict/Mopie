@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "019FFDF6-8336-4F0B-AD93-B617CF26DBBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04C9F558-0B3E-4AAB-9EEB-186895BDF5DE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06B3E6E6-F6C7-4585-B4A4-6E30EA4AF61C",
+    "height": 64,
+    "width": 412,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Actionbar with title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5B21841B-E2B9-4CC2-94C5-05A3836DF4AA",
+      "overrideName": "93594178-273B-4F5A-AFED-37439DF69A11_stringValue",
+      "value": "Chiangmai"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E1D14308-722F-4869-918D-606DF2615442",
+      "overrideName": "E144C87D-07BF-4B49-A5FB-9EFFDEC4EED1_stringValue",
+      "value": "Last update: September, 1st, 2018"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "233E9082-10B9-43C2-BA6B-738BBF30B255",
+      "overrideName": "54DBFBED-00AB-4418-900E-20BE27F7D6AD_symbolID",
+      "value": "4E9AF98A-FB05-4F58-83C5-C1DD799AD850"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0CE729C6-1B8A-48AD-93EB-D55474D94026",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "06936FD3-F996-4815-89FB-0717CCC1438D",
+  "verticalSpacing": 0
+}
